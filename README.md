@@ -27,4 +27,6 @@ Program Features:
        Safely exits the program.
 
 This README outlines the core functionalities, helping users and developers understand the capabilities of the Movie Rent Library Management application. For more in-depth information, refer to the Project_Description.pdf.
-____________________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________
+NOTE:    
+        The "PACKAGE.py" is optional and only needed for adding or modifying values in the SQL database. For basic access and navigation, it’s not required.
