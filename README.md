@@ -30,3 +30,4 @@ This README outlines the core functionalities, helping users and developers unde
 ____________________________________________________________________________________________________________________________________________________________________
 NOTE:    
         The "PACKAGE.py" is optional and only needed for adding or modifying values in the SQL database. For basic access and navigation, it’s not required.
+        The dump.zip is failed or droped projects, for reference ou can use it.
